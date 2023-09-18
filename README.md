@@ -35,6 +35,11 @@ The data used was extracted from SAP's Business Objects application. The excel f
 	- Distribution
 	- Warehousing
 ***
+### TECHNOLOGIES
+
+![microsoftexcel Badge](https://img.shields.io/badge/-excel-217346?style=for-the-badge&labelColor=black&logo=microsoftexcel&logoColor=217346)
+
+***
 
 ### ANALYSIS
 
